@@ -3,9 +3,9 @@ package org.bistu.po;
 import java.util.Date;
 
 /**
- * 行政处罚决定PO
+ * 行政处罚决定DO
  */
-public class AdministrativePunishmentDecisionPO {
+public class AdministrativePunishmentDecisionDO {
     //自增，主键
     private int id;
     private String indexNum;
